@@ -32,28 +32,7 @@ crowdfunding-master/
  ├── test/              # Contract tests
  ├── hardhat.config.js  # Hardhat configuration
  └── package.json       # Project dependencies
- 
-⚡ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/Shreyyaa17/crowdfunding-dapp.git
-cd crowdfunding-dapp
 
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Compile smart contracts
-npx hardhat compile
-
-4️⃣ Deploy contracts (local network)
-npx hardhat node
-npx hardhat run scripts/deploy.js --network localhost
-
-5️⃣ Run the frontend
-npm run dev
-Visit: http://localhost:3000
-
-🔗 Smart Contracts
-CrowdFunding.sol – Core contract managing campaigns and contributions
 
 🚀 Deployment
 For production deployment, you can use:
