@@ -1,4 +1,4 @@
-🚀 Crowdfunding DApp
+# Crowdfunding DApp
 A decentralized crowdfunding platform built on Ethereum using Solidity, Hardhat, Web3.js, and Next.js. This project allows users to create campaigns, contribute funds, and withdraw contributions securely via smart contracts.
 
 📌 Features
