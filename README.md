@@ -35,7 +35,7 @@ crowdfunding-master/
  
 ⚡ Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/crowdfunding-dapp.git
+git clone https://github.com/Shreyyaa17/crowdfunding-dapp.git
 cd crowdfunding-dapp
 
 2️⃣ Install dependencies
